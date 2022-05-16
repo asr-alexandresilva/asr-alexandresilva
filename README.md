@@ -5,20 +5,7 @@
 - Analista de Sistema / Desenvolvedor Front End
 - Objetivo de aperfeiçoar, desenvolver e aprender novas Hard Skills e Soft Skills a cada dia.
 
-<!--
-**asr-alexandresilva/asr-alexandresilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <a href="https://github.com/asr-alexandresilva">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=asr-alexandresilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -48,5 +35,8 @@ Here are some ideas to get you started:
   <a href="mailto:arpsdesigner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   </div>
-
+##
+##
+  
+   ![Snake animation](https://github.com/asr-alexandresilva/asr-alexandresilva/blob/output/github-contribution-grid-snake.svg)
   
