@@ -2,7 +2,7 @@
 
 - Formado em Análise e Desenvolvimento de Sistemas
   Pela Universidade de Mogi das cruzes UMC
-- Analista de Sistema / Desenvolvedor Front End
+- Analista de Sistema / Desenvolvedor Full Stack
 - Objetivo de aperfeiçoar, desenvolver e aprender novas Hard Skills e Soft Skills a cada dia.
 
 
